@@ -1,5 +1,5 @@
 def main():
-    #escribe tu código abajo de esta línea
+    #escribe tu código abajo de esta líneafgksldgksdfksdfksldfk
     base = float(input("Dame la base: "))
     altura = float(input("Dame la altura: "))
     area = base * altura / 2
